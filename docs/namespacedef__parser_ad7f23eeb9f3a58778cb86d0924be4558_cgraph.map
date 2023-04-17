@@ -1,5 +1,5 @@
 <map id="def_parser.create_scene" name="def_parser.create_scene">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,169,31"/>
-<area shape="rect" id="node2" href="$namespacedef__parser.html#a76683897d246e890da4992903422b9e0" title="Creates a game object from a json type definition file." alt="" coords="217,5,360,31"/>
-<area shape="rect" id="node3" href="$namespacedef__parser.html#a0c31ce89a1b1a3a01b28fa8e1936529d" title="Creates a list of components for a game object from a type definition json object." alt="" coords="408,5,608,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,177,31"/>
+<area shape="rect" id="node2" href="$namespacedef__parser.html#a5db615c4d23ffb4e62bd33812b8d4dd8" title="Creates a game object from a json type definition file." alt="" coords="225,5,377,31"/>
+<area shape="rect" id="node3" href="$namespacedef__parser.html#a0c31ce89a1b1a3a01b28fa8e1936529d" title="Creates a list of components for a game object from a type definition json object." alt="" coords="425,5,639,31"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="ResourceManager::GetSurface" name="ResourceManager::GetSurface">
+<area shape="rect" id="node1" title="Get a previously loaded SDL_Surface." alt="" coords="272,5,485,31"/>
+<area shape="rect" id="node2" href="$classResourceManager.html#ad79993806f3d5084432c15f743907def" title="Load a SDL_Texture from a image file." alt="" coords="5,5,224,31"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['transformcomponent_0',['TransformComponent',['../class_transform_component.html',1,'']]]
+  ['transformcomponent_0',['TransformComponent',['../classTransformComponent.html',1,'']]]
 ];

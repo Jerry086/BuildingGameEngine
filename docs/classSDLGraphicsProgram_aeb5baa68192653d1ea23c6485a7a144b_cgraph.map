@@ -1,0 +1,5 @@
+<map id="SDLGraphicsProgram::ShutDown" name="SDLGraphicsProgram::ShutDown">
+<area shape="rect" id="node1" title="Shut down the SDL graphics program." alt="" coords="5,22,157,62"/>
+<area shape="rect" id="node2" href="$classServiceLocator.html#a799e174c446a1a155c195b173d45595f" title="Shutdown all services." alt="" coords="205,29,392,55"/>
+<area shape="rect" id="node3" href="$classServiceLocator.html#a00f7e36ef8887496fffc94d2182967e6" title=" " alt="" coords="440,29,613,55"/>
+</map>

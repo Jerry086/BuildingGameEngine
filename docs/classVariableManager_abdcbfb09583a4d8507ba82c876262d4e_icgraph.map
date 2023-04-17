@@ -1,0 +1,15 @@
+<map id="VariableManager::instance" name="VariableManager::instance">
+<area shape="rect" id="node1" title=" " alt="" coords="491,276,677,301"/>
+<area shape="rect" id="node2" href="$classVariableManager.html#ad11c1e19f4dca7877f9f2156860eb59f" title="Get a boolean by name." alt="" coords="230,5,417,31"/>
+<area shape="rect" id="node4" href="$classVariableManager.html#a80f9ebd866b4eb161b958e359524e8d0" title="Get the value of a counter." alt="" coords="218,55,429,80"/>
+<area shape="rect" id="node5" href="$classVariableManager.html#a19b53bcb1c71d489f6fc0ce9cc7ab4a2" title="Get a string variable by name." alt="" coords="232,104,415,129"/>
+<area shape="rect" id="node6" href="$classVariableManager.html#a32c853cbc0a784c4c33f646672dfccb4" title="Increment a counter by a value." alt="" coords="223,154,424,194"/>
+<area shape="rect" id="node7" href="$classVariableManager.html#a72723011e12abe73b82c29f6a4fb5678" title="Remove a counter by name." alt="" coords="204,219,443,244"/>
+<area shape="rect" id="node8" href="$classVariableManager.html#a5239a8b33d4742c6578f84f91d847fc4" title="Reset all booleans." alt="" coords="230,269,417,309"/>
+<area shape="rect" id="node9" href="$classVariableManager.html#a1992b96b6c9a01e5bebdd0003d8b66a6" title="Reset all counters." alt="" coords="230,333,417,373"/>
+<area shape="rect" id="node10" href="$classVariableManager.html#ab1e4ab0e6838cfb009abd3fe06664731" title="Set a boolean by name." alt="" coords="231,397,415,423"/>
+<area shape="rect" id="node11" href="$classVariableManager.html#a52cf7fbe879c2dc3417ad975e6896970" title="Set the Counter object." alt="" coords="220,447,427,472"/>
+<area shape="rect" id="node12" href="$classVariableManager.html#a82cb403f678c105ca199da1feea0c2d0" title="Set a string variable by name." alt="" coords="233,496,413,521"/>
+<area shape="rect" id="node13" href="$classVariableManager.html#a46507fb6b37655c7ca39d8e8120a9ad3" title="Toggle a boolean by name." alt="" coords="221,545,426,571"/>
+<area shape="rect" id="node3" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="5,280,156,305"/>
+</map>

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['vec2_0',['Vec2',['../class_vec2.html',1,'']]]
+  ['variablemanager_0',['VariableManager',['../classVariableManager.html',1,'']]],
+  ['vec2_1',['Vec2',['../classVec2.html',1,'']]]
 ];

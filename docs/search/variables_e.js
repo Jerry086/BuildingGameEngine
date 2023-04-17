@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['up_0',['up',['../struct_input_manager_1_1_input_state.html#a6686a3286792a31bba8e81c3551ff8a0',1,'InputManager::InputState']]],
-  ['up_1',['UP',['../_sprite_component_8hpp.html#ac58327b7b857c0d4c71c07aa602ace58',1,'SpriteComponent.hpp']]]
+  ['texturemap_0',['textureMap',['../classResourceManager.html#a21d5e3776406efef8710e81a64edb1e5',1,'ResourceManager']]],
+  ['transform_5fcomp_1',['transform_comp',['../namespacedef__parser.html#a1c1e2b9e64a26f275ecd6f997125d4cc',1,'def_parser']]]
 ];

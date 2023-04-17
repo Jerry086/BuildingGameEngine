@@ -1,0 +1,4 @@
+<map id="GameManager" name="GameManager">
+<area shape="rect" id="node1" title="The GameManager class that manages the game state." alt="" coords="5,189,136,369"/>
+<area shape="rect" id="node2" href="$classIService.html" title="Abstract class that defines the interface for all services." alt="" coords="18,5,123,141"/>
+</map>

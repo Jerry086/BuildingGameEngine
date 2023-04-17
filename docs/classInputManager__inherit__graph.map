@@ -1,0 +1,4 @@
+<map id="InputManager" name="InputManager">
+<area shape="rect" id="node1" title="The InputManager class that manages the input of the game." alt="" coords="5,189,184,355"/>
+<area shape="rect" id="node2" href="$classIService.html" title="Abstract class that defines the interface for all services." alt="" coords="42,5,147,141"/>
+</map>

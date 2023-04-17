@@ -1,0 +1,5 @@
+<map id="GameObjectManager::instance" name="GameObjectManager::instance">
+<area shape="rect" id="node1" title="instance of the game object manager" alt="" coords="204,29,367,69"/>
+<area shape="rect" id="node2" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="5,7,156,33"/>
+<area shape="rect" id="node3" href="$classCollisionComponent.html#a26b246d1439f1cb061a05ba0b2dd4c4a" title="Update the component." alt="" coords="8,57,153,97"/>
+</map>

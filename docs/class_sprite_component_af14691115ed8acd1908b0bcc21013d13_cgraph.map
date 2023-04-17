@@ -1,6 +1,0 @@
-<map id="SpriteComponent::ShutDown" name="SpriteComponent::ShutDown">
-<area shape="rect" id="node1" title="Shutdown the sprite component." alt="" coords="5,70,197,95"/>
-<area shape="rect" id="node2" href="$class_resource_manager.html#a7da29825825eb4a087fcb3a6a64ec65b" title="Destroy a previously loaded SDL_Texture." alt="" coords="257,5,440,45"/>
-<area shape="rect" id="node3" href="$class_resource_manager.html#a10c9f51bb5befc6299b7ce829216ef6e" title="Free a previously loaded SDL_Surface." alt="" coords="245,70,452,95"/>
-<area shape="rect" id="node4" href="$class_resource_manager.html#a91756683167c290b33b7525881122940" title="Obtain the instance of the resource manager." alt="" coords="256,143,441,169"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="GameManager::IsQuit" name="GameManager::IsQuit">
+<area shape="rect" id="node1" title="Know if the game has quit or not." alt="" coords="5,29,165,55"/>
+<area shape="rect" id="node2" href="$classGameManager.html#a38098a346a5e7901440b85e1152055db" title=" " alt="" coords="213,29,388,55"/>
+</map>
