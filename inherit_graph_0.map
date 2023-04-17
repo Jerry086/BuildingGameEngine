@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_component.html" title=" " alt="" coords="5,153,95,179"/>
+<area shape="rect" id="node2" href="$class_behavior_component.html" title=" " alt="" coords="147,5,287,31"/>
+<area shape="rect" id="node3" href="$class_collision_component.html" title="The CollisionComponent class." alt="" coords="147,55,286,80"/>
+<area shape="rect" id="node4" href="$class_controller_component.html" title=" " alt="" coords="144,104,289,129"/>
+<area shape="rect" id="node5" href="$class_counter_component.html" title=" " alt="" coords="149,153,284,179"/>
+<area shape="rect" id="node6" href="$class_health_bar_component.html" title="The HealthBarComponent class." alt="" coords="143,203,290,228"/>
+<area shape="rect" id="node7" href="$class_sprite_component.html" title=" " alt="" coords="155,252,278,277"/>
+<area shape="rect" id="node8" href="$class_transform_component.html" title=" " alt="" coords="143,301,291,327"/>
+</map>

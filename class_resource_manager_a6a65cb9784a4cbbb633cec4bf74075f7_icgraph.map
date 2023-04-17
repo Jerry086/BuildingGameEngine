@@ -1,0 +1,5 @@
+<map id="ResourceManager::GetTexture" name="ResourceManager::GetTexture">
+<area shape="rect" id="node1" title="Get a previously loaded SDL_Texture." alt="" coords="285,42,485,67"/>
+<area shape="rect" id="node2" href="$class_health_bar_component.html#a0bf214e3e14ca1ff06e62853e3103bdd" title="Constructor." alt="" coords="44,5,199,45"/>
+<area shape="rect" id="node3" href="$class_sprite_component.html#ad6708da262e4c9284cf80819bedf4faa" title=" " alt="" coords="5,70,237,95"/>
+</map>

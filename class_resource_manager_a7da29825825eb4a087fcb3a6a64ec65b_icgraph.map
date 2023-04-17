@@ -1,0 +1,4 @@
+<map id="ResourceManager::DestroyTexture" name="ResourceManager::DestroyTexture">
+<area shape="rect" id="node1" title="Destroy a previously loaded SDL_Texture." alt="" coords="245,5,428,45"/>
+<area shape="rect" id="node2" href="$class_sprite_component.html#af14691115ed8acd1908b0bcc21013d13" title="Shutdown the sprite component." alt="" coords="5,13,197,38"/>
+</map>

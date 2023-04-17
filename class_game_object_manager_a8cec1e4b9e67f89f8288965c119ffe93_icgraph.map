@@ -1,0 +1,4 @@
+<map id="GameObjectManager::SetGameOver" name="GameObjectManager::SetGameOver">
+<area shape="rect" id="node1" title="set the game over flag" alt="" coords="192,5,345,45"/>
+<area shape="rect" id="node2" href="$class_collision_component.html#a26b246d1439f1cb061a05ba0b2dd4c4a" title="Update the component." alt="" coords="5,5,144,45"/>
+</map>

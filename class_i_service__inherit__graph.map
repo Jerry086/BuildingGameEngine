@@ -1,0 +1,7 @@
+<map id="IService" name="IService">
+<area shape="rect" id="node1" title=" " alt="" coords="333,5,436,112"/>
+<area shape="rect" id="node2" href="$class_game_manager.html" title=" " alt="" coords="5,204,180,413"/>
+<area shape="rect" id="node3" href="$class_input_manager.html" title=" " alt="" coords="205,226,378,391"/>
+<area shape="rect" id="node4" href="$class_resource_manager.html" title="The ResourceManager class." alt="" coords="402,160,554,457"/>
+<area shape="rect" id="node5" href="$class_s_d_l_wrapper.html" title=" " alt="" coords="578,226,757,391"/>
+</map>

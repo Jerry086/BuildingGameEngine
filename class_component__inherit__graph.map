@@ -1,0 +1,10 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title=" " alt="" coords="609,5,727,156"/>
+<area shape="rect" id="node2" href="$class_behavior_component.html" title=" " alt="" coords="5,270,173,479"/>
+<area shape="rect" id="node3" href="$class_collision_component.html" title="The CollisionComponent class." alt="" coords="198,248,365,501"/>
+<area shape="rect" id="node4" href="$class_controller_component.html" title=" " alt="" coords="389,270,563,479"/>
+<area shape="rect" id="node5" href="$class_counter_component.html" title=" " alt="" coords="587,277,749,472"/>
+<area shape="rect" id="node6" href="$class_health_bar_component.html" title="The HealthBarComponent class." alt="" coords="774,211,949,538"/>
+<area shape="rect" id="node7" href="$class_sprite_component.html" title=" " alt="" coords="973,204,1144,545"/>
+<area shape="rect" id="node8" href="$class_transform_component.html" title=" " alt="" coords="1168,270,1344,479"/>
+</map>
