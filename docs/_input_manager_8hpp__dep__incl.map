@@ -1,9 +1,0 @@
-<map id="include/Services/InputManager.hpp" name="include/Services/InputManager.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="409,5,635,31"/>
-<area shape="rect" id="node2" href="$_s_d_l_graphics_program_8h.html" title=" " alt="" coords="205,86,410,111"/>
-<area shape="rect" id="node4" href="$_game_manager_8cpp.html" title=" " alt="" coords="367,167,575,192"/>
-<area shape="rect" id="node6" href="$_controller_component_8cpp.html" title=" " alt="" coords="497,79,675,119"/>
-<area shape="rect" id="node7" href="$_input_manager_8cpp.html" title=" " alt="" coords="699,86,902,111"/>
-<area shape="rect" id="node3" href="$_s_d_l_graphics_program_8cpp.html" title=" " alt="" coords="5,167,201,192"/>
-<area shape="rect" id="node5" href="$bindings_8cpp.html" title=" " alt="" coords="226,167,343,192"/>
-</map>

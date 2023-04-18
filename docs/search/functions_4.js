@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['flip_0',['flip',['../class_s_d_l_graphics_program.html#a1b2040042b2fc4bda09f365d7885e9a3',1,'SDLGraphicsProgram']]],
-  ['freesurface_1',['FreeSurface',['../class_resource_manager.html#a10c9f51bb5befc6299b7ce829216ef6e',1,'ResourceManager']]]
+  ['delay_0',['delay',['../classSDLGraphicsProgram.html#a299c62853b3f28fc3930880fc4c128ba',1,'SDLGraphicsProgram']]],
+  ['destroytexture_1',['DestroyTexture',['../classResourceManager.html#a7da29825825eb4a087fcb3a6a64ec65b',1,'ResourceManager']]],
+  ['drawpoint_2',['DrawPoint',['../classSDLGraphicsProgram.html#ae030dd5e3441f1f8997efae801108f2d',1,'SDLGraphicsProgram']]],
+  ['drawrectangle_3',['DrawRectangle',['../classSDLGraphicsProgram.html#a16d2650fd0229073b5de1922fa0156fb',1,'SDLGraphicsProgram']]]
 ];

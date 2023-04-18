@@ -1,0 +1,4 @@
+<map id="CollisionComponent::CheckCollision" name="CollisionComponent::CheckCollision">
+<area shape="rect" id="node1" title="Check collision with another object." alt="" coords="199,5,344,45"/>
+<area shape="rect" id="node2" href="$classCollisionComponent.html#a26b246d1439f1cb061a05ba0b2dd4c4a" title="Update the component." alt="" coords="5,5,151,45"/>
+</map>

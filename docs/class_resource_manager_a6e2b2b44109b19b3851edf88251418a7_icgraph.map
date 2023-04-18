@@ -1,5 +1,0 @@
-<map id="ResourceManager::GetRenderer" name="ResourceManager::GetRenderer">
-<area shape="rect" id="node1" title="Get the SDL_Renderer." alt="" coords="227,42,437,67"/>
-<area shape="rect" id="node2" href="$class_health_bar_component.html#a7b8c20b321692511319f8b6b72ce5e51" title="Render the component." alt="" coords="19,5,165,45"/>
-<area shape="rect" id="node3" href="$class_sprite_component.html#aed147a66b829847927a8735168e2e3e6" title=" " alt="" coords="5,70,179,95"/>
-</map>

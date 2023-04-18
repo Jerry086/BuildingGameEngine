@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.6"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>My Project: macbuild.py File Reference</title>
+<title>Vancouver Tiny Engine: macbuild.py File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">My Project
+   <div id="projectname">Vancouver Tiny Engine
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -113,16 +113,16 @@ Variables</h2></td></tr>
 <tr class="separator:a482c3753067bd8895320cdb7e6393310"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39838fd95ce411542cb274f5ce743e59"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a39838fd95ce411542cb274f5ce743e59">macbuild.SOURCE</a> = &quot;./src/*.cpp ./src/Components/*.cpp ./src/Services/*.cpp&quot;</td></tr>
 <tr class="separator:a39838fd95ce411542cb274f5ce743e59"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad526994b2b076340def410c9c575fb03"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#ad526994b2b076340def410c9c575fb03">macbuild.ARGUMENTS</a></td></tr>
-<tr class="separator:ad526994b2b076340def410c9c575fb03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af83de63b785dd97ad88e971eef540f57"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af83de63b785dd97ad88e971eef540f57">macbuild.INCLUDE_DIR</a> = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.11 -m pybind11 --includes`&quot;</td></tr>
+<tr class="memitem:a26b616ea761ec57d8a200d7f9f6ae465"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a26b616ea761ec57d8a200d7f9f6ae465">macbuild.ARGUMENTS</a> = &quot;-D MAC -std=c++14 -shared -undefined dynamic_lookup -rpath /Library/Frameworks/&quot;</td></tr>
+<tr class="separator:a26b616ea761ec57d8a200d7f9f6ae465"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af83de63b785dd97ad88e971eef540f57"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af83de63b785dd97ad88e971eef540f57">macbuild.INCLUDE_DIR</a> = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.9 -m pybind11 --includes`&quot;</td></tr>
 <tr class="separator:af83de63b785dd97ad88e971eef540f57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68dd02d6a522489ac9a6e2e53c888273"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a68dd02d6a522489ac9a6e2e53c888273">macbuild.LIBRARIES</a> = &quot;-F/Library/Frameworks -framework SDL2 `python3.11-config --ldflags`&quot;</td></tr>
+<tr class="memitem:a68dd02d6a522489ac9a6e2e53c888273"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a68dd02d6a522489ac9a6e2e53c888273">macbuild.LIBRARIES</a> = &quot;-F/Library/Frameworks -framework SDL2 `python3.9-config --ldflags`&quot;</td></tr>
 <tr class="separator:a68dd02d6a522489ac9a6e2e53c888273"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af61cfd11c42c6c936896ff66466f9695"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af61cfd11c42c6c936896ff66466f9695">macbuild.EXECUTABLE</a> = &quot;mygameengine.so&quot;</td></tr>
 <tr class="separator:af61cfd11c42c6c936896ff66466f9695"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afef35bf2337f8926f4fb197bbdd976aa"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#afef35bf2337f8926f4fb197bbdd976aa">macbuild.compileString</a></td></tr>
-<tr class="separator:afef35bf2337f8926f4fb197bbdd976aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a068fe9ad5f8184b5737ed5bb164c4586"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a068fe9ad5f8184b5737ed5bb164c4586">macbuild.compileString</a></td></tr>
+<tr class="separator:a068fe9ad5f8184b5737ed5bb164c4586"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->

@@ -24,12 +24,12 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
-    [ "Add any additional notes here", "md__r_e_a_d_m_e.html", [
-      [ "Game/Engine Publicity", "md__r_e_a_d_m_e.html#autotoc_md1", null ],
-      [ "Compilation Instructions", "md__r_e_a_d_m_e.html#autotoc_md2", null ],
-      [ "Project Hieararchy", "md__r_e_a_d_m_e.html#autotoc_md3", [
-        [ "./Engine Directory Organization", "md__r_e_a_d_m_e.html#autotoc_md4", null ]
+  [ "Vancouver Tiny Engine", "index.html", [
+    [ "Add any additional notes here", "md_README.html", [
+      [ "Game/Engine Publicity", "md_README.html#autotoc_md1", null ],
+      [ "Compilation Instructions", "md_README.html#autotoc_md2", null ],
+      [ "Project Hieararchy", "md_README.html#autotoc_md3", [
+        [ "./Engine Directory Organization", "md_README.html#autotoc_md4", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [
@@ -67,8 +67,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_behavior_component_8cpp.html",
-"class_s_d_l_graphics_program.html#a42e9554ec5b497551530bd5a8ca9585f"
+"BehaviorComponent_8cpp.html",
+"classServiceLocator.html#a8d7acb523e01627644a78030d1a53014"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

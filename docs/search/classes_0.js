@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['behaviorcomponent_0',['BehaviorComponent',['../class_behavior_component.html',1,'']]]
+  ['behaviorcomponent_0',['BehaviorComponent',['../classBehaviorComponent.html',1,'']]]
 ];

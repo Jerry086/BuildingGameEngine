@@ -1,0 +1,9 @@
+<map id="IService" name="IService">
+<area shape="rect" id="node1" title="Abstract class that defines the interface for all services." alt="" coords="487,5,593,141"/>
+<area shape="rect" id="node2" href="$classGameManager.html" title="The GameManager class that manages the game state." alt="" coords="5,263,136,443"/>
+<area shape="rect" id="node3" href="$classGameObjectManager.html" title="The GameObjectManager class." alt="" coords="160,226,331,479"/>
+<area shape="rect" id="node4" href="$classInputManager.html" title="The InputManager class that manages the input of the game." alt="" coords="355,270,533,435"/>
+<area shape="rect" id="node5" href="$classResourceManager.html" title="The ResourceManager class." alt="" coords="558,197,717,509"/>
+<area shape="rect" id="node6" href="$classSDLWrapper.html" title=" " alt="" coords="741,270,923,435"/>
+<area shape="rect" id="node7" href="$classVariableManager.html" title="Class to manage &quot;global&quot; variables." alt="" coords="947,189,1104,516"/>
+</map>

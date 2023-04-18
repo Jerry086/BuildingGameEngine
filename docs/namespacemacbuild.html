@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.6"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>My Project: macbuild Namespace Reference</title>
+<title>Vancouver Tiny Engine: macbuild Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">My Project
+   <div id="projectname">Vancouver Tiny Engine
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -107,33 +107,30 @@ Variables</h2></td></tr>
 <tr class="separator:a482c3753067bd8895320cdb7e6393310"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39838fd95ce411542cb274f5ce743e59"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a39838fd95ce411542cb274f5ce743e59">SOURCE</a> = &quot;./src/*.cpp ./src/Components/*.cpp ./src/Services/*.cpp&quot;</td></tr>
 <tr class="separator:a39838fd95ce411542cb274f5ce743e59"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad526994b2b076340def410c9c575fb03"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#ad526994b2b076340def410c9c575fb03">ARGUMENTS</a></td></tr>
-<tr class="separator:ad526994b2b076340def410c9c575fb03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af83de63b785dd97ad88e971eef540f57"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af83de63b785dd97ad88e971eef540f57">INCLUDE_DIR</a> = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.11 -m pybind11 --includes`&quot;</td></tr>
+<tr class="memitem:a26b616ea761ec57d8a200d7f9f6ae465"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a26b616ea761ec57d8a200d7f9f6ae465">ARGUMENTS</a> = &quot;-D MAC -std=c++14 -shared -undefined dynamic_lookup -rpath /Library/Frameworks/&quot;</td></tr>
+<tr class="separator:a26b616ea761ec57d8a200d7f9f6ae465"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af83de63b785dd97ad88e971eef540f57"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af83de63b785dd97ad88e971eef540f57">INCLUDE_DIR</a> = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.9 -m pybind11 --includes`&quot;</td></tr>
 <tr class="separator:af83de63b785dd97ad88e971eef540f57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68dd02d6a522489ac9a6e2e53c888273"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a68dd02d6a522489ac9a6e2e53c888273">LIBRARIES</a> = &quot;-F/Library/Frameworks -framework SDL2 `python3.11-config --ldflags`&quot;</td></tr>
+<tr class="memitem:a68dd02d6a522489ac9a6e2e53c888273"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a68dd02d6a522489ac9a6e2e53c888273">LIBRARIES</a> = &quot;-F/Library/Frameworks -framework SDL2 `python3.9-config --ldflags`&quot;</td></tr>
 <tr class="separator:a68dd02d6a522489ac9a6e2e53c888273"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af61cfd11c42c6c936896ff66466f9695"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#af61cfd11c42c6c936896ff66466f9695">EXECUTABLE</a> = &quot;mygameengine.so&quot;</td></tr>
 <tr class="separator:af61cfd11c42c6c936896ff66466f9695"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afef35bf2337f8926f4fb197bbdd976aa"><td class="memItemLeft" align="right" valign="top">tuple&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#afef35bf2337f8926f4fb197bbdd976aa">compileString</a></td></tr>
-<tr class="separator:afef35bf2337f8926f4fb197bbdd976aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a068fe9ad5f8184b5737ed5bb164c4586"><td class="memItemLeft" align="right" valign="top">str&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemacbuild.html#a068fe9ad5f8184b5737ed5bb164c4586">compileString</a></td></tr>
+<tr class="separator:a068fe9ad5f8184b5737ed5bb164c4586"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="ad526994b2b076340def410c9c575fb03" name="ad526994b2b076340def410c9c575fb03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad526994b2b076340def410c9c575fb03">&#9670;&#160;</a></span>ARGUMENTS</h2>
+<a id="a26b616ea761ec57d8a200d7f9f6ae465" name="a26b616ea761ec57d8a200d7f9f6ae465"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26b616ea761ec57d8a200d7f9f6ae465">&#9670;&#160;</a></span>ARGUMENTS</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">tuple macbuild.ARGUMENTS</td>
+          <td class="memname">str macbuild.ARGUMENTS = &quot;-D MAC -std=c++14 -shared -undefined dynamic_lookup -rpath /Library/Frameworks/&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line"><span class="lineno">    1</span>=  (</div>
-<div class="line"><span class="lineno">    2</span>    <span class="stringliteral">&quot;-D MAC -std=c++14 -shared -undefined dynamic_lookup -rpath /Library/Frameworks/&quot;</span></div>
-<div class="line"><span class="lineno">    3</span>)</div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <a id="a482c3753067bd8895320cdb7e6393310" name="a482c3753067bd8895320cdb7e6393310"></a>
@@ -150,31 +147,19 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="afef35bf2337f8926f4fb197bbdd976aa" name="afef35bf2337f8926f4fb197bbdd976aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afef35bf2337f8926f4fb197bbdd976aa">&#9670;&#160;</a></span>compileString</h2>
+<a id="a068fe9ad5f8184b5737ed5bb164c4586" name="a068fe9ad5f8184b5737ed5bb164c4586"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a068fe9ad5f8184b5737ed5bb164c4586">&#9670;&#160;</a></span>compileString</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">tuple macbuild.compileString</td>
+          <td class="memname">str macbuild.compileString</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line"><span class="lineno">    1</span>=  (</div>
-<div class="line"><span class="lineno">    2</span>    COMPILER</div>
-<div class="line"><span class="lineno">    3</span>    + <span class="stringliteral">&quot; &quot;</span></div>
-<div class="line"><span class="lineno">    4</span>    + ARGUMENTS</div>
-<div class="line"><span class="lineno">    5</span>    + <span class="stringliteral">&quot; -o &quot;</span></div>
-<div class="line"><span class="lineno">    6</span>    + EXECUTABLE</div>
-<div class="line"><span class="lineno">    7</span>    + <span class="stringliteral">&quot; &quot;</span></div>
-<div class="line"><span class="lineno">    8</span>    + <span class="stringliteral">&quot; &quot;</span></div>
-<div class="line"><span class="lineno">    9</span>    + INCLUDE_DIR</div>
-<div class="line"><span class="lineno">   10</span>    + <span class="stringliteral">&quot; &quot;</span></div>
-<div class="line"><span class="lineno">   11</span>    + SOURCE</div>
-<div class="line"><span class="lineno">   12</span>    + <span class="stringliteral">&quot; &quot;</span></div>
-<div class="line"><span class="lineno">   13</span>    + LIBRARIES</div>
-<div class="line"><span class="lineno">   14</span>)</div>
+<b>Initial value:</b><div class="fragment"><div class="line"><span class="lineno">    1</span>=  COMPILER+<span class="stringliteral">&quot; &quot;</span>+ARGUMENTS+<span class="stringliteral">&quot; -o &quot;</span> + \</div>
+<div class="line"><span class="lineno">    2</span>    EXECUTABLE+<span class="stringliteral">&quot; &quot;</span>+<span class="stringliteral">&quot; &quot;</span>+INCLUDE_DIR+<span class="stringliteral">&quot; &quot;</span>+SOURCE+<span class="stringliteral">&quot; &quot;</span>+LIBRARIES</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -199,7 +184,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">str macbuild.INCLUDE_DIR = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.11 -m pybind11 --includes`&quot;</td>
+          <td class="memname">str macbuild.INCLUDE_DIR = &quot;-I ./include/ -I./pybind11/include/ -I/Library/Frameworks/SDL2.framework/Headers `python3.9 -m pybind11 --includes`&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -213,7 +198,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">str macbuild.LIBRARIES = &quot;-F/Library/Frameworks -framework SDL2 `python3.11-config --ldflags`&quot;</td>
+          <td class="memname">str macbuild.LIBRARIES = &quot;-F/Library/Frameworks -framework SDL2 `python3.9-config --ldflags`&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">

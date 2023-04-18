@@ -1,0 +1,6 @@
+<map id="CollisionComponent::Update" name="CollisionComponent::Update">
+<area shape="rect" id="node1" title="Update the component." alt="" coords="5,93,151,133"/>
+<area shape="rect" id="node2" href="$classCollisionComponent.html#a6ad213ae456aeb297916cb1048417ce9" title="Check collision with another object." alt="" coords="207,5,353,45"/>
+<area shape="rect" id="node3" href="$classGameObjectManager.html#a0eaf38805b9181ee3e58100387352105" title="instance of the game object manager" alt="" coords="199,93,361,133"/>
+<area shape="rect" id="node4" href="$classCollisionComponent.html#ae9ffea5892b60d35aaa284321fbb268c" title=" " alt="" coords="207,157,353,197"/>
+</map>

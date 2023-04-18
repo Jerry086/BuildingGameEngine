@@ -1,11 +1,10 @@
 var dir_b5387289685bf4d85d4ad61551733121 =
 [
-    [ "BehaviorComponent.hpp", "_behavior_component_8hpp.html", "_behavior_component_8hpp" ],
-    [ "CollisionComponent.hpp", "_collision_component_8hpp.html", "_collision_component_8hpp" ],
-    [ "Component.hpp", "_component_8hpp.html", "_component_8hpp" ],
-    [ "ControllerComponent.hpp", "_controller_component_8hpp.html", "_controller_component_8hpp" ],
-    [ "CounterComponent.hpp", "_counter_component_8hpp.html", "_counter_component_8hpp" ],
-    [ "HealthBarComponent.hpp", "_health_bar_component_8hpp.html", "_health_bar_component_8hpp" ],
-    [ "SpriteComponent.hpp", "_sprite_component_8hpp.html", "_sprite_component_8hpp" ],
-    [ "TransformComponent.hpp", "_transform_component_8hpp.html", "_transform_component_8hpp" ]
+    [ "BehaviorComponent.hpp", "BehaviorComponent_8hpp.html", "BehaviorComponent_8hpp" ],
+    [ "CollisionComponent.hpp", "CollisionComponent_8hpp.html", "CollisionComponent_8hpp" ],
+    [ "Component.hpp", "Component_8hpp.html", "Component_8hpp" ],
+    [ "ControllerComponent.hpp", "ControllerComponent_8hpp.html", "ControllerComponent_8hpp" ],
+    [ "HealthBarComponent.hpp", "HealthBarComponent_8hpp.html", "HealthBarComponent_8hpp" ],
+    [ "SpriteComponent.hpp", "SpriteComponent_8hpp.html", "SpriteComponent_8hpp" ],
+    [ "TransformComponent.hpp", "TransformComponent_8hpp.html", "TransformComponent_8hpp" ]
 ];

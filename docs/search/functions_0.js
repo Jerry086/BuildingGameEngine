@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['addcomponent_0',['AddComponent',['../class_game_object.html#a0192594a5615a8fd2099bee8445a0855',1,'GameObject']]],
-  ['addgameobject_1',['AddGameObject',['../class_game_object_manager.html#a9f2861704d3dce30c641aa778a375d9d',1,'GameObjectManager']]]
+  ['_5f_5fattribute_5f_5f_0',['__attribute__',['../Component_8hpp.html#a6f8c2bf2dc66070ae09a83e37cd76571',1,'__attribute__((visibility(&quot;default&quot;))) Component:&#160;Component.hpp'],['../GameObject_8hpp.html#a48ba3775759371c80243aa905f1fe01d',1,'__attribute__((visibility(&quot;default&quot;))) GameObject:&#160;GameObject.hpp']]]
 ];

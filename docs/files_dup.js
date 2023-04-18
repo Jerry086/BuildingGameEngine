@@ -5,6 +5,5 @@ var files_dup =
     [ "def_parser.py", "def__parser_8py.html", "def__parser_8py" ],
     [ "linuxbuild.py", "linuxbuild_8py.html", "linuxbuild_8py" ],
     [ "macbuild.py", "macbuild_8py.html", "macbuild_8py" ],
-    [ "MyScript.py", "_my_script_8py.html", "_my_script_8py" ],
-    [ "test.py", "test_8py.html", "test_8py" ]
+    [ "MyScript.py", "MyScript_8py.html", "MyScript_8py" ]
 ];

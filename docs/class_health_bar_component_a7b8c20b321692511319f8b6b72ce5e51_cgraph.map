@@ -1,5 +1,0 @@
-<map id="HealthBarComponent::Render" name="HealthBarComponent::Render">
-<area shape="rect" id="node1" title="Render the component." alt="" coords="5,35,152,75"/>
-<area shape="rect" id="node2" href="$class_resource_manager.html#a6e2b2b44109b19b3851edf88251418a7" title="Get the SDL_Renderer." alt="" coords="200,5,411,31"/>
-<area shape="rect" id="node3" href="$class_resource_manager.html#a91756683167c290b33b7525881122940" title="Obtain the instance of the resource manager." alt="" coords="213,79,398,104"/>
-</map>

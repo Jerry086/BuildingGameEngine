@@ -1,0 +1,4 @@
+<map id="def_parser.create_go" name="def_parser.create_go">
+<area shape="rect" id="node1" title="Creates a game object from a json type definition file." alt="" coords="5,5,157,31"/>
+<area shape="rect" id="node2" href="$namespacedef__parser.html#a0c31ce89a1b1a3a01b28fa8e1936529d" title="Creates a list of components for a game object from a type definition json object." alt="" coords="205,5,419,31"/>
+</map>
